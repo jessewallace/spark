@@ -67,5 +67,5 @@ Great Simple | Android Kit | http://greatsimple.io
 
 
 ---
-Spark is brought to you by the folk over at [Dargon Army](https://www.dragonarmy.com), a digital agency in Atlanta with a penchant for Doing Good.
+Spark is brought to you by the folk over at [Dragon Army](https://www.dragonarmy.com), a digital agency in Atlanta with a penchant for Doing Good.
 
