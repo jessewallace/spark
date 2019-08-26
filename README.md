@@ -1,7 +1,7 @@
 ![sparklogo](https://dragonarmy.com/spark/images/github-spark-logo.png)
 
 # Spark, a UX Library for Sketch
-Spark is a sketch library built by UX designers, for UX designers. It contains a variety of components, elements, text styles and tools to help you design faster and consistently. Save time by chucking this library into your project and get going!
+Spark is a Sketch library built by UX designers, for UX designers. It contains a variety of components, elements, text styles and tools to help you design faster and consistently. Save time by chucking this library into your project and get going!
 
 ## How to Get Started
 ### 1. Download Roboto
@@ -54,7 +54,6 @@ Prepackaged form templates for common cases, like login and address collection
 
 Preset font styles in white, gray and black, as well as all three alignments
 
-
 ## Acknowledgements
 Spark includes a few other resources by permission to round this out as a complete kit. Thanks to the following authors for partnering with us to deliver the library:
 
@@ -65,3 +64,8 @@ Jeff Broderick | Cursors | http://twitter.com/brdrck
 Tran Mau Tri Tam | Font Awesome Icons | https://freeui.design/
 
 Great Simple | Android Kit | http://greatsimple.io
+
+
+---
+Spark is brought to you by the folk over at [Dargon Army](https://www.dragonarmy.com), a digital agency in Atlanta with a penchant for Doing Good.
+
