@@ -65,6 +65,29 @@ Tran Mau Tri Tam | Font Awesome Icons | https://freeui.design/
 
 Great Simple | Android Kit | http://greatsimple.io
 
+## How to Contribute
+There are two ways to contribute: feature requests and pull requests.
+
+# Feature Requests
+Simply create an issue and tag it with *enhancements*.
+To keep things simple, use this format:
+
+```
+Platform: [Web][iOS][Android][Other]
+Name: NameOfThingy
+Artifacts:  
+- Feature 1
+- Feature 2
+- Feature 3
+```
+
+# Pull Requests
+You can fork the file and add/make changes to things and set up a pull request. We will review and integrate changes when possible. A few rules:
+- Don't change the name of things - this will actually break off old symbols, and that's a bugger.
+- Make sure additions scale well and use the native Roboto font for any text.
+- Be detailed in what you have done so we can quickly respond to the request.
+
+
 
 ---
 Spark is brought to you by the folk over at [Dragon Army](https://www.dragonarmy.com), a digital agency in Atlanta with a penchant for Doing Good.
